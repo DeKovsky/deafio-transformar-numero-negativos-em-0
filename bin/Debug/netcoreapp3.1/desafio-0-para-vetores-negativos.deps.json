@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "desafio-0-para-vetores-negativos/1.0.0": {
+        "runtime": {
+          "desafio-0-para-vetores-negativos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "desafio-0-para-vetores-negativos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
